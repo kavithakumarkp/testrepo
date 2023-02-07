@@ -1,5 +1,5 @@
 mountpoints:
    /:    
-   url: https://sp-cloud.kp.org/sites/KPD-Helix/Shared%20Documents/aboutkp
+   url: https://sp-cloud.kp.org/sites/KPD-Helix/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x0120007B42ABD000972D4E96E28901ECAC57BF&id=%2Fsites%2FKPD%2DHelix%2FShared%20Documents%2Fabout%2Dkaiserpermanente&viewid=96c3cff0%2Db6a8%2D47de%2Da83f%2D98989f51c1e3
    type: onedrive    
    tenantId: 3f8a7bc4-e337-47a5-a0fc-0d512c0e05f1
